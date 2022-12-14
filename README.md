@@ -22,4 +22,7 @@ But, in those three lots, lot 3 exceeds the design specifications of 100 PSI.
 
 ![Screenshot 2022-12-14 at 6 25 19 PM](https://user-images.githubusercontent.com/111814578/207736950-dcd0893c-4abd-4e39-88e6-1b4f4d32bcbe.png)
 
+## Study Design: MechaCar vs Competition
+I will design a T-test to compare the safety rating of MechaCar with competitors. The Null hypothesis there is no difference between mean of MechaCar and rest of competitors. And the alternative hypothesis will be there is a significant difference between mean of MechaCar and competitors.
+
 
